@@ -4,6 +4,7 @@
 **Course Date:** 22.03.2021  
 **Name:** İlayda     
 **Surname:** Kurşun
+
 **Email:** ilaydakursun98@hotmail.com 
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
